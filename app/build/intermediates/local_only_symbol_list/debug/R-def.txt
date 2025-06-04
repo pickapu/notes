@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id action_noteList_to_addEdit
+id addEditNoteFragment
+id btnDelete
+id btnSave
+id etContent
+id etTitle
+id fabAddNote
+id nav_host_fragment
+id noteListFragment
+id recyclerView
+id tvContent
+id tvTitle
+layout activity_main
+layout fragment_add_edit_note
+layout fragment_note_list
+layout item_note
+mipmap ic_launcher
+mipmap ic_launcher_round
+navigation nav_graph
+string add_note
+string app_name
+string content
+string delete
+string save
+string title
+style Base.Theme.cleanNotes
+style Theme.Notes

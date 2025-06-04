@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_note">Add Note</string>
+    <string name="app_name">CleanNotesApp</string>
+    <string name="content">Content</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="title">Title</string>
+    <style name="Base.Theme.cleanNotes" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Notes" parent="Base.Theme.cleanNotes"/>
+</resources>
